@@ -1,1 +1,1 @@
-# -https://play.google.com/store/apps/dtails？id=com.termuxhttps://play.google.com/store/apps/dtails？id=com.termux
+https://play.google.com/store/apps/dtails？id=com.termux
