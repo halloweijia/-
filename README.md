@@ -1,1 +1,1 @@
-https://play.google.com/store/apps/dtails？id=com.termux
+apt-get update ＆＆ gpt-get upgrade
