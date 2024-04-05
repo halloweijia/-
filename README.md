@@ -1,1 +1,1 @@
-apt-get update ＆＆ gpt-get upgrade
+weijiaapt-get update ＆＆ gpt-get upgrade
